@@ -17,7 +17,7 @@ logging.basicConfig(
 # ==========================================
 # ⚙ AAPKI SETTINGS:
 # ==========================================
-TELEGRAM_BOT_TOKEN = "8809930341:AAF2kjJ44x60tLdVe9eqpdLqnxkzqViJyE4"
+TELEGRAM_BOT_TOKEN = "8809930341:AAF9qgJ5f66FZz83O7XtZVMW_fVNt9u3YNI"
 BOT_NAME = "👑 𝐓𝐇𝐄 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓 👑"
 BOT_USERNAME = "@THE_KING01_BOT"
 LOG_CHANNEL_ID = -1004455533815  # Log Channel ID
